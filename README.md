@@ -7,7 +7,7 @@ About
 
 Support
 =====
-- Microsoft Z3py SMT Solver version 4.4.2
+- Microsoft Z3py SMT Solver Version 4.4.2 and Python Version 2.7
 
 Usage
 =====
