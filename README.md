@@ -12,4 +12,4 @@ Support
 Usage
 =====
 
-- Run the python files
+- Run the python scripts
