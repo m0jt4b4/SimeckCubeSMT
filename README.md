@@ -1,6 +1,6 @@
 # Simeck Cube SMT
 
-Cube and SMT based Cube Analysis
+Cube and SMT based Cube Analysis of Simeck
 
 About
 =====
