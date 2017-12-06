@@ -7,9 +7,14 @@ About
 
 Support
 =====
-- Microsoft Z3 SMT Solver Version 4.4.2 and Python Version 2.7
+
+- For Cube Analysis: Microsoft Windows.
+
+- For SMT-based Analysis: Microsoft Z3 SMT Solver Version 4.4.2 and Python Version 2.7
 
 Usage
 =====
 
-- Run the python scripts
+- For Cube Analysis: Run the simeck.exe executable
+
+- For SMT-based Analysis: Run the python scripts
